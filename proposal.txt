@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage[T1]{fontenc}
+\usepackage{tgbonum}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\title{Project Proposal}
+\usepackage{graphicx}
+\begin{document}
+\begin{center}
+\textbf{{\huge NORTH SOUTH UNIVERSITY}}\\
+\vspace{0.1IN}
+\textbf{ \large Department of Electrical and Computer Engineering}\\
+\vspace{0.2in}
+\begin{center}
+    \includegraphics[scale= 0.3]{north.png}
+\end{center}
+
+\vspace{0.01in}
+\textbf{A PROJECCT PROPOSAL\\ON}\\
+\vspace{0.01in}
+\textbf{{\large "FOODMART MANAGEMENT SYSTEM"}}\\
+\vspace{0.2IN}
+\textbf{Course: Database Syatem}\\
+\vspace{0.04in}
+\textbf{Course code:CSE311L}\\
+\vspace{0.04in}
+\textbf{Section:05}\\
+\vspace{0.04in}
+\textbf{semester:Spring 2021}\\
+\vspace{0.1in}
+
+\end{center}
+
+\begin{center}
+    
+\textbf{\large Submitted to}\\
+\vspace{0.03in}
+\textmd{Course Instructor\\ Nadeem Ahmed}  \\  
+\textmd{Lab Instructor\\Nazmul Alam Dipto}\\
+\vspace{0.3in}
+
+
+\textbf{\large Submitted by}\\ \vspace{0.2in}
+\begin{tabular}{ c c c }
+\textbf{Student Name}&\hspace{1.4in} \textbf{Student Id}\\
+\textmd{Shajeda Parvin}&\hspace{1.4in} \textmd{1931313042}\\
+\textmd{Sadia Afroz}&\hspace{1.4in}\textmd{1722257642}\\
+
+\textmd{Nainmur Rahman}&\hspace{1.4in} \textmd{1922218642}\\
+\end{tabular}
+
+
+\vspace{0.3in}
+\textbf{\large Submission Date}\\ \vspace{0.09in}
+24th July 2021
+\end{center}
+
+\vspace{2in}
+\section{Introduction}
+
+A dangerous, life-threatening virus named COVID-19 spreads all over the world like a pandemic. The whole world is under lockdown conditions from 2020. For this reason it’s very hard for normal people to go outside and do grocery shopping, to make shopping easy  for everyone we will make this e-commerce website. It will make sure that people get their desired product easily in this hard situation.we will provide home service for maintaining hygiene. And we'll supply groceries to people's doors.  Nowadays shopping online is an essential part of shopping and we can try to make it a little easier for everyone.
+
+\section{Objective}
+1.To offer the best customer experience.\\
+2.Generate Online Sales.\\
+3.To provide a clean and safe environment to shop. \\
+4.Providing a unique customer experience.\\
+5.Excepting complaint's from customers.\\
+6.Providing offers to new and existing customers.\\
+7.The main objective of this project is to automate and facilitate the whole process of shopping.\\
+\section{Target Customer}
+1.Women:  women's  will use our service to buy daily groceries.they will get to know all the details about our product by only one click.
+\vspace{0.10in}\\
+2.Restaurants:  restaurent owners will get a decent amount of sale and other services from us.\\
+
+
+\section{Value Proposition}
+"Foodmart" will reduce women's daily life hassle as they don't have to go outside for shopping, rather they can shop from home by using any smartphone. This website will be enough to keep track of every item and quantity, for this feature we will need less menpower. Admins will take complaints as a result we will keep a track on our service.therefore no customer will face any kind of loss. It will save customers both time and money.
+
+
+\section{Web Application Feature and description}
+The Name of our project is "Fresh Mart:
+Fresh mart is an online e-commerce website where our main purpose is to serve people door to door with less hassle in this critical situation. It will consist of registration/ sign up, Product details, product presents in the cart, view  order history, filter product based on the product details,view the products purchased on particular date, view total price of purchased product, add or delete a product from the cart . Also, the admin will be able to keep track of activities.There will be approximately 5-8 tables.
+Our motive to work on this project is to make a small step to help people so that they can purchase grocery items by staying at home.\\
+\vspace{0.1in}
+
+\textbf{\large Tables Required:}\\
+1.Products\\ 
+2.Seller\\
+3.Customer\\
+4.Discount\\
+5.Publishers\\
+6.Payment \\
+\vspace{0.1in}
+
+
+\textbf{\large Features of Project:}\\
+1.Register/Log in\\
+2.Cart\\
+3.Delete, Add\\
+4.View Item, Details\\
+5.Details Update\\
+6.View total price of purchased product\\
+7.Review\\
+
+
+\section{Tools and Resources}
+1.MySQL\\
+2.PHP\\
+3.HTML\\
+4.Javascript\\
+5.CSS\\
+
+\section{Challenge}
+Data management will be the biggest challenge on our project. An e-commerce site will contain a huge amount of data such as customer data, product details etcetera. Before taking any order we have to make sure that the customer's details are genuine and they will surely take the parcel so that we can save ourselves from wasting time on fraud people. And the second challenge will be keeping track of the product. The details of our products will continuously change as a result it will be a little difficult to store these data.
+
+
+\end{document}
